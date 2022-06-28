@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubhmandloi
+- 👋 Hi, I’m @Shubhammandloi
 - 👀 I’m interested in ... Ui/UX
 - 🌱 I’m currently learning ... Web Devlopment
 - 💞️ I’m looking to collaborate on ...
