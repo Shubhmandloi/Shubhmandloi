@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shubham Mandloi - Front End Devloper</h1>
+<h1 align="center">Hi there👋, I'm Shubham Mandloi - Front End Developer</h1>
 <h3 align="center">Welcome to my GitHub profile🚀! I'm a passionate frontend developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
