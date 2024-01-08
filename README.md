@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
+- 🌱 Currently looking for **Job**
+
 - 💬 Ask me about **Front End Devlopment**
 
 - 📫 How to reach me **mandloishubham26@gmail.com**
